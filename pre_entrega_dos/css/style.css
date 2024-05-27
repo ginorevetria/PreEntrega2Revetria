@@ -139,10 +139,12 @@ h1
       margin-top: -30px;
   }
 
-  .icon-nos
+  .carta .icon-nos
   {
     float: center;
     font-size: 50px;
+    text-align: center;
+    color: #4AF094;
   }
 
   .servicios
@@ -161,11 +163,11 @@ h1
     padding-right: 20px;
   }
 
-  .tz-gallery {
+  .galeria {
     padding: 40px;
   }
   
-  .tz-gallery .thumbnail {
+  .galeria .carta {
     padding: 0;
     margin-bottom: 30px;
     background-color: #fff;
@@ -175,39 +177,39 @@ h1
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
   }
   
-  .tz-gallery .thumbnail:hover {
+  .galeria .carta:hover {
     transform: translateY(-10px) scale(1.02);
   }
   
-  .tz-gallery .lightbox img {
+  .galeria .lightbox img {
     border-radius: 4px 4px 0 0;
   }
   
-  .tz-gallery .caption{
+  .galeria .caption{
     padding: 26px 30px;
     text-align: center;
   }
   
-  .tz-gallery .caption h2 {
+  .galeria .caption h2 {
     font-size: 20px;
     font-weight: bold;
     margin-top: 0;
-    color: #dda50b;
+    color: #4AF094;
   }
   
-  .tz-gallery .caption h3 {
+  .galeria .caption h3 {
     font-size: 14px;
     font-weight: bold;
     margin-top: 0;
   }
   
-  .tz-gallery .caption p {
+  .galeria .caption p {
     font-size: 12px;
     color: #7b7d7d;
     margin: 0;
   }
 
-  .gallery-container h1 {
+  .galeria-contenedor h1 {
     text-align: center;
     margin-top: 70px;
     font-family: 'Droid Sans', sans-serif;
@@ -215,7 +217,7 @@ h1
     color: #58595a;
   }
   
-  .gallery-container p.page-description {
+  .galeria-contenedor p.pag-descripcion {
     text-align: center;
     margin: 30px auto;
     font-size: 18px;
@@ -226,3 +228,10 @@ h1
     padding-top: 10px;
     padding-bottom: 10px;
   }
+
+  
+
+
+
+
+  
